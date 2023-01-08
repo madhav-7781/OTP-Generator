@@ -1,5 +1,5 @@
 # OTP-Generator
-One time password generator using random
+#One time password generator using random
 import random as r
 def otpgenerator():
     otp=""
